@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">QuanLyChiTieu</string>
+    <string name="app_title">Quản lý chi tiêu</string>
+    <string name="currency_symbol">đ</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="username_hint">Nhập tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="password_hint">••••••</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_sample_account">Tài khoản mẫu: admin / 123456</string>
+    <string name="toast_login_success">Đăng nhập thành công</string>
+    <string name="error_login_failed">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="error_login_empty">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+
+    <string name="total_expense_title">Tổng số tiền đã chi</string>
+    <string name="expense_list_title">Danh sách khoản chi</string>
+    <string name="add_expense_button">+ Thêm khoản chi</string>
+    <string name="item_click_hint">(Nhấn vào một khoản chi để xem chi tiết)</string>
+    <string name="empty_expense_list">Chưa có khoản chi nào</string>
+
+    <string name="add_expense_title">Thêm khoản chi</string>
+    <string name="expense_name">Tên khoản chi</string>
+    <string name="expense_name_hint">Ví dụ: Ăn trưa</string>
+    <string name="expense_amount">Số tiền (VNĐ)</string>
+    <string name="expense_amount_hint">Chỉ nhập số, ví dụ: 45000</string>
+    <string name="expense_category">Danh mục</string>
+    <string name="expense_date">Ngày chi tiêu</string>
+    <string name="expense_note">Ghi chú</string>
+    <string name="expense_note_hint">Nhập ghi chú (nhiều dòng)&#8230;</string>
+    <string name="save_expense_button">Lưu khoản chi</string>
+    <string name="error_empty_name">Vui lòng nhập tên khoản chi</string>
+    <string name="error_empty_amount">Vui lòng nhập số tiền</string>
+    <string name="error_amount_contains_letters">Số tiền chỉ được nhập chữ số, không được chứa chữ cái</string>
+    <string name="error_invalid_amount">Số tiền phải là số lớn hơn 0</string>
+
+    <string name="helper_valid_name">✓ Tên khoản chi hợp lệ</string>
+    <string name="helper_valid_amount">✓ Số tiền hợp lệ</string>
+    <string name="helper_valid_category">✓ Đã chọn danh mục hợp lệ</string>
+    <string name="helper_valid_category_with_name">✓ Đã chọn danh mục hợp lệ (%s)</string>
+    <string name="helper_valid_date">✓ Đã chọn ngày chi tiêu: %s</string>
+    <string name="helper_valid_note">✓ Ghi chú hợp lệ</string>
+    <string name="helper_optional_note">Ghi chú (không bắt buộc)</string>
+
+    <string name="expense_detail_title">Chi tiết khoản chi</string>
+    <string name="back_button">Quay lại</string>
+    <string name="delete_expense_button">Xóa khoản chi</string>
+    <string name="toast_add_success">Đã thêm khoản chi thành công</string>
+    <string name="toast_delete_success">Đã xóa khoản chi</string>
+    <string name="no_note">Không có ghi chú</string>
+</resources>
